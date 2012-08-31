@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../why-not-engine/why-not-engine.iml" filepath="$PROJECT_DIR$/../why-not-engine/why-not-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/why-not-play-ground.iml" filepath="$PROJECT_DIR$/why-not-play-ground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../why-not-simple-templates/why-not-simple-templates.iml" filepath="$PROJECT_DIR$/../why-not-simple-templates/why-not-simple-templates.iml" />
+    </modules>
+  </component>
+</project>
+
